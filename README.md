@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sstrabon
 - 👀 I’m interested in Programming Language
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on areas needed me
 - 📫 How to reach me furkankablan@hotmail.com
 
